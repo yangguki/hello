@@ -12,5 +12,4 @@ console.log('local 변경 1');
 console.log('local 변경 2');
 
 console.log('remote  변경 발생 1');
-
 console.log('remote  변경 발생 2');
